@@ -20,4 +20,4 @@ The easiest way to install this plugin is through [Package Control](http://wbond
  * First install Package Control, if you just did this then you should restart Sublime
  * Open up the Command Palette (Command+Shift+p on OS X, Control+Shift+p on Linux/Windows)
  * Select 'Package Control: Install Package'
- * Select 'CompetitiveProgramming'
+ * Select 'Competitive Programming'
